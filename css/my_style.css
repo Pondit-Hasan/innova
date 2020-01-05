@@ -1,0 +1,81 @@
+
+
+
+/* custom style*/
+/* background */
+.bg_header {
+  color: #fff;
+  background: linear-gradient(88deg, #13b4ca, #18cabe);
+}
+
+
+/* image style */
+.thumbnail_img {
+  width: 80px !important;
+  height: 80px !important;
+  border: 2px solid rgb(171, 140, 228) !important;
+  border-radius: 15% !important;
+}
+.md_thumbnail_img {
+  width: 300px !important;
+  height: 280px !important;
+  border: 3px solid rgb(171, 140, 228) !important;
+  border-radius: 0% !important;
+}
+.medium_img {
+  width: 500px !important;
+  height: auto !important;
+  border: 5px solid rgb(3, 169, 243); !important;
+  border-radius: 0% !important;
+}
+
+/* logo style */
+.navbar-brand {
+  width: 100px !important;
+  display: block;
+  padding: 0;
+}
+.logo {
+  width: 50px !important;
+  border-radius: 15%;
+}
+
+
+/* service section style */
+
+.service {
+  min-height: 500px !important;
+}
+
+/* testimonials section style */
+
+.testimonials {
+  height: 200px !important;
+}
+
+/* message notifications style */
+.navbar .navbar-menu-wrapper .navbar-nav .nav-item.dropdown .count-indicator .count.msg {
+	position: absolute;
+	left: 60%;
+	width: auto;
+	height: 20px;
+	border-radius: 8%;
+	background: #fb9678;
+	top: -37%;
+	color: #fff;
+	font-size: 13px;
+	padding: 2px;
+  padding-top: 0;
+  font-weight: 100;
+}
+
+
+
+
+
+
+
+
+
+
+/* end style here */
